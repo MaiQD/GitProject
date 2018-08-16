@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #MaiQD
 
 
@@ -35,3 +36,12 @@
 
 ██████▀░░░░▀▀██████▀
 
+=======
+
+#The first project for CSLTU students
+
+1. Thang Nguyen
+2. Dai Nguyen
+3. Dinh Huynh
+4. Dang Tu
+>>>>>>> 992cc33b4f50839bb19cb984ac48526ea56e91ab
